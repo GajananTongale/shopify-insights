@@ -1,6 +1,0 @@
-flask
-httpx
-beautifulsoup4
-google-generativeai
-pydantic
-python-dotenv 
